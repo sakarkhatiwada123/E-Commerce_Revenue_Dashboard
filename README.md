@@ -1,5 +1,9 @@
 E-Commerce Revenue Dashboard
 
+<img width="1297" height="728" alt="image" src="https://github.com/user-attachments/assets/13a8a8de-55b3-4e2b-be09-9091ef02587a" />
+
+
+
 This project is a Power BI dashboard built to analyze and visualize e-commerce revenue performance over time. It provides a quick overview of sales trends, customer behavior, and operational insights to support better business decisions.
 
 Dashboard Highlights
